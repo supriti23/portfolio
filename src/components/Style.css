@@ -1,0 +1,80 @@
+:root {
+  --blue: rgb(74, 74, 185);
+  --pink: rgb(255, 166, 166);
+}
+.navbar {
+  background-color: var(--pink);
+}
+.nav-link {
+  color: var(--blue);
+}
+.home {
+  margin-top: 6%;
+}
+.homeImage {
+  height: 10%;
+}
+.heading {
+  font-family: "Abril Fatface", cursive;
+  font-size: 100%;
+  color: var(--blue);
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 80%;
+}
+.fa:hover {
+  opacity: 0.8;
+  color: rgb(192, 100, 100);
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+i {
+  background: var(--pink);
+}
+.text {
+  display: inline;
+  font-size: 1.5rem;
+  color: var(--blue);
+  margin-left: 1rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.details {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3.5rem;
+}
+.btn {
+  background-color: var(--pink);
+  color: var(--blue);
+  margin-top: 3rem;
+}
+.btn:hover {
+  opacity: 0.7;
+}
+.aboutImage {
+  height: 7%;
+}
+.aboutDetails {
+  margin-top: 5rem;
+  color: var(--blue);
+}
+.skillBar {
+  margin-bottom: 1rem;
+}
