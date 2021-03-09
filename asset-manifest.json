@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec423f88.chunk.css",
+    "main.js": "/static/js/main.35acf5ba.chunk.js",
+    "main.js.map": "/static/js/main.35acf5ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e0a4497.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e0a4497.js.map",
+    "static/js/2.774589e8.chunk.js": "/static/js/2.774589e8.chunk.js",
+    "static/js/2.774589e8.chunk.js.map": "/static/js/2.774589e8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ec423f88.chunk.css.map": "/static/css/main.ec423f88.chunk.css.map",
+    "static/js/2.774589e8.chunk.js.LICENSE.txt": "/static/js/2.774589e8.chunk.js.LICENSE.txt",
+    "static/media/AboutPage.264b946f.jpg": "/static/media/AboutPage.264b946f.jpg",
+    "static/media/ImageHome.c5f01537.jpg": "/static/media/ImageHome.c5f01537.jpg",
+    "static/media/ProfilePic.e215e824.png": "/static/media/ProfilePic.e215e824.png",
+    "static/media/Skills.fccdfeeb.jpg": "/static/media/Skills.fccdfeeb.jpg",
+    "static/media/Supriti.bf44198e.pdf": "/static/media/Supriti.bf44198e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e0a4497.js",
+    "static/js/2.774589e8.chunk.js",
+    "static/css/main.ec423f88.chunk.css",
+    "static/js/main.35acf5ba.chunk.js"
+  ]
+}
