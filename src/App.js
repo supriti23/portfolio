@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 function App() {
   return (
     <div>
-      <HashRouter>
+      <HashRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
