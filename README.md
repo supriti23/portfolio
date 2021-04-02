@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a demo of my portfolio that is built using React and React Router. Bootstrap has also been used to make the design responsive.
+This is a demo of my portfolio that is built using ReactJS and React Router. Bootstrap has also been used to make the design responsive.
 
 ## Technologies Used
 HTML
